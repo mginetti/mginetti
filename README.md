@@ -10,7 +10,7 @@ I am **Matteo** an Italian **Jr. Fronted developer**.
 
 ---
 
-- 🧑🏽‍💻 I’m currently working as **Sr. Software Engineer @ Tech9**
+- 🧑🏽‍💻 I’m currently working as **Sr. Software Engineer @ 24consulting**
 - 🌱 I’m currently learning **NuxtJS - REST api**
 - 💬 Ask me about **Web Development**
 - 📫 How to reach me:
