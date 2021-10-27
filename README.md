@@ -1,16 +1,23 @@
-### Hi there 👋
+## Hi! 👋
 
-<!--
-**mginetti/mginetti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am **Matteo** an Italian **Jr. Fronted developer**.
+**Skilled in Vue JS, Sass, JavaScript, NodeJS, User Experience.**
+**Passion** Cyber security, Video games, UI, UX
 
-Here are some ideas to get you started:
+[![Linkedin: Matteo](https://img.shields.io/badge/-Matteo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matteo-ginetti/)](https://www.linkedin.com/in/matteo-ginetti/)
+[![GitHub Matteo](https://img.shields.io/github/followers/mginetti?label=follow&style=social)](https://github.com/mginetti)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+---
+
+- 🧑🏽‍💻 I’m currently working as **Sr. Software Engineer @ Tech9**
+- 🌱 I’m currently learning **NuxtJS - REST api**
+- 💬 Ask me about **Web Development**
+- 📫 How to reach me:
+  **[Twitter](https://twitter.com/matteog_99), [Instagram](https://instagram.com/matteo_ginetti)**
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mginetti&layout=compact&theme=dark&hide_border=true)
+
+![Ghazi's github stats](https://github-readme-stats.vercel.app/api?username=mginetti&show_icons=true&hide_border=true&theme=dark)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=mginetti)](https://github.com/mginetti/github-profile-trophy)
