@@ -14,10 +14,6 @@ I am **Matteo** an Italian **Jr. Fronted developer**.
 - 🌱 I’m currently learning **NuxtJS - REST api**
 - 💬 Ask me about **Web Development**
 - 📫 How to reach me:
-  **[Twitter](https://twitter.com/matteog_99), [Instagram](https://instagram.com/matteo_ginetti)**
+  **[Twitter](https://twitter.com/matteog_99), [Instagram](https://instagram.com/matteo_ginetti), [Linkedin](www.linkedin.com/in/matteo-ginetti)**
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mginetti&layout=compact&theme=dark&hide_border=true)
-
-![Ghazi's github stats](https://github-readme-stats.vercel.app/api?username=mginetti&show_icons=true&hide_border=true&theme=dark)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=mginetti)](https://github.com/mginetti/github-profile-trophy)
