@@ -1,7 +1,7 @@
 ## Hi! 👋
 
-I am **Matteo** an Italian **Jr. Fronted developer**.
-**Skilled in Vue JS, Sass, JavaScript, NodeJS, User Experience.**
+I am **Matteo** an Italian **Fronted developer**.
+**Skilled in Vue JS, Sass, JavaScript, TS, NodeJS, Fastify, User Experience.**
 **Passion** Cyber security, Video games, UI, UX
 
 [![Linkedin: Matteo](https://img.shields.io/badge/-Matteo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matteo-ginetti/)](https://www.linkedin.com/in/matteo-ginetti/)
@@ -10,7 +10,7 @@ I am **Matteo** an Italian **Jr. Fronted developer**.
 
 ---
 
-- 🧑🏽‍💻 I’m currently working as **Jr. Frontend Developer at @ 24consulting**
+- 🧑🏽‍💻 I’m currently working as **Frontend Developer at @ 24consulting**
 - 🌱 I’m currently learning **NuxtJS - REST api**
 - 💬 Ask me about **Web Development**
 - 📫 How to reach me:
